@@ -1,0 +1,79 @@
+{
+  "products":[
+      {
+          "id":1,
+          "name":"Google pixel 6a",
+          "brand":"Google",
+          "color":"black",
+          "category":"mobile",
+          "price":"30000",
+          "photo":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&w=350&dpr=2"
+      },
+      {
+          "id":2,
+          "name":"Samsung a23",
+          "brand":"Samsung",
+          "color":"black",
+          "category":"mobile",
+          "price":"60000",
+          "photo":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&w=350&dpr=2"
+      },
+      {
+          "id":3,
+          "name":"Decal t shirt",
+          "brand":"decol",
+          "color":"black",
+          "category":"clothes",
+          "price":"300",
+          "photo":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&w=350&dpr=2"
+      },
+      {
+          "id":4,
+          "name":"Trouser",
+          "brand":"dekan",
+          "color":"black",
+          "category":"",
+          "price":"clothes",
+          "photo":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&w=350&dpr=2"
+      },
+      {
+        "id":5,
+        "name":"Google pixel 7a",
+        "brand":"Google",
+        "color":"white",
+        "category":"mobile",
+        "price":"30000",
+        "photo":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&w=350&dpr=2"
+    },
+    {
+        "id":6,
+        "name":"Kids Toys",
+        "brand":"JJ",
+        "color":"red",
+        "category":"mobile",
+        "price":"60000",
+        "photo":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&w=350&dpr=2"
+    },
+    {
+        "id":7,
+        "name":"Women's wear",
+        "brand":"decol",
+        "color":"Pink",
+        "category":"clothes",
+        "price":"300",
+        "photo":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&w=350&dpr=2"
+    },
+    {
+        "id":8,
+        "name":"Hoodie",
+        "brand":"dekan",
+        "color":"red",
+        "category":"clothes",
+        "price":"clothes",
+        "photo":"https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&w=350&dpr=2"
+    }
+  ],
+  "cart":[
+    
+  ]
+}
